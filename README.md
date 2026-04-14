@@ -1,5 +1,5 @@
 # IsThisADeal.ai
-[IsThisADeal.ai](IsThisADeal.ai) is a solo-built SaaS product I created focusing on blending data science with psychology's cognitive load science.
+[IsThisADeal.ai](https://IsThisADeal.ai) is a solo-built SaaS product I created focusing on blending data science with psychology's cognitive load science.
 
 ## The Pain Points
 ### 1. Cognitive Load
