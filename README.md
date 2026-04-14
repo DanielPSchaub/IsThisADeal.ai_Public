@@ -4,9 +4,9 @@
 ## The Pain Points
 ### 1. Cognitive Load
 
-Did you know that the average amount of things someone can hold in their memory is around 4 (Cowen)? Four different things in your head at once, and that's the limit. It's why US telephone numbers are split up like they are.
+Did you know that the average amount of things someone can hold in their memory is around 4 (Cowen)? Four different things in your head at once, that's the limit. It's why US telephone numbers are split up like they are (333-333-4444).
 
-Now how are you supposed to compare computers, products with a dozen or more variables and components, all at the same time? Computer shopping is hard. If you're not already an expert on laptops, how are you expected to get a good laptop that fits your needs, without falling into a research holes for several weeks?
+Now how are you supposed to compare computers, products with a dozen or more variables and components, all at the same time? And what happens when you want to change what you're comparing? Cognitive Bias is what happens when you try to make a decision when overwhelmed, and it leads to dissatisfaction, remorse, returns of products, and discouragement. I know, it happened to me.
 
 ### 2. Deals and Sales
 
